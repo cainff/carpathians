@@ -1,0 +1,281 @@
+/**Image bloc 1**/
+
+#logo- {
+    position:relative;
+    float:left;
+    top:30px;
+}
+
+#souris_ {
+    position: relative;
+    float:left;
+    top:630px;
+    left:475px;
+    
+}
+
+
+
+
+/**Image bloc 3**/
+/**Ligne 1**/
+#imgbloc1 {
+    position:relative;
+    float:left;
+    width:360px ;
+    top:500px;
+    
+    
+}
+
+#imgbloc2 {
+    position:relative;
+    float:left;
+    width:360px ;
+    top:500px;
+    
+}
+
+#imgbloc3 {
+    position: relative;
+    float:left;
+    width:360px ;
+    top:500px;
+    
+}
+
+#imgbloc4 {
+    position: relative;
+    float:left;
+    width:360px ;
+    top:500px;
+}
+
+/**Ligne 2**/
+
+#imgbloc5 {
+    position: relative;
+    float:right;
+    width:360px ;
+    top:500px;
+}
+
+#imgbloc6 {
+    position: relative;
+    float:right;
+    width:360px ;
+    top:500px;
+    
+}
+
+#imgbloc7 {
+    position: relative;
+    float:right;
+    width:360px ;
+    top:500px;
+}
+
+#imgbloc8 {
+    position: relative;
+    float:right;
+    width:360px ;
+    top:500px;
+}
+
+
+/**Image du bloc 4**/
+
+#img1 {
+    position:absolute;
+    float:left;
+    top:40px;
+    left:20px;
+    
+}
+
+#img2 {
+    position:absolute;
+    top:40px;
+    left:389px;
+}
+
+#img3 {
+    position:absolute;
+    float:right;
+    top:40px;
+    left:760px;
+}
+
+#img1:hover {
+    opacity: 0.2;
+}
+
+#img2:hover{
+    opacity: 0.2;
+}
+
+#img3:hover{
+    opacity: 0.2;
+}
+
+/**Image du bloc 5**/
+
+#imgdesign {
+    position:relative;
+    float:left;
+    top:215px;
+    left:-150px
+}
+
+#imgphoto {
+    position:relative;
+    top:215px;
+    left:10px;
+}
+
+#imgmusic {
+    position:relative;
+    float:right;
+    top:215px;
+    right:-150px;
+    
+}
+
+/**Image du bloc 6**/
+
+#guillemet {
+    position:relative;
+    float:left;
+    top:120px;
+    left:40px;
+    
+}
+
+#guillemet2 {
+    position:relative;
+    float:right;
+    top:240px;
+    right:40px;
+    
+}
+
+/**Image du bloc 7 **/
+
+#wac {
+    position: relative;
+    float:left;
+    top:300px;
+    
+}
+
+#cam {
+    position: relative;
+    top:300px;
+    left:335px;
+    
+}
+
+#note {
+    position:relative;
+    float:right;
+    right:20px;
+    top:300px;
+}
+
+/**Slider Bloc 9**/
+
+
+
+
+/**Image du bloc 10 ligne 1**/
+
+#Apple_ {
+    position: relative;
+    float:left;
+    border:1px solid #999999;
+    padding:71px 130px 71px 121px;
+}
+
+#Vogue_ {
+    position:relative;
+    float:left;
+    border:1px solid #999999;  
+    padding:100px 106px 83px 105px;
+}
+
+#Star_ {
+    position:relative;
+    float:left;
+    border:1px solid #999999;
+    padding:15px 95px 42px 96px;
+}
+
+#Nivea_ {
+    position:relative;
+    float:left;
+    border:1px solid #999999;
+    padding:18px 85px 40px 90px;
+}
+
+/**Image du bloc 10 ligne 2**/
+
+
+#Chanel_ {
+    position:relative;
+    float:left;
+    border:1px solid #999999;
+    padding:100px 78px 100px 68px;
+
+}
+
+#Mic_ {
+    position:relative;
+    float:left;
+    border:1px solid #999999;
+    padding:100px 99px 101px 99px;
+    
+}
+
+#Nin_ {
+    position:relative;
+    float:left;
+    border:1px solid #999999;
+    padding:97px 92px 97px 92px;
+    
+}
+
+#GQ_ {
+    position:relative;
+    float:left;
+    border:1px solid #999999;
+    padding:45px 95px 48px 111px;
+
+}
+
+/**Image footer**/
+#logo_ {
+    position:absolute;
+    top:75px;
+    left:493px;
+}
+
+#google {
+    position: relative;
+    float:left;
+    top:215px;
+    left:463px;
+}
+
+#fb {
+    position:relative;
+    float:left;
+    top:215px;
+    left:485px;
+}
+
+#twitter_ {
+    position:relative;
+    float:right;
+    top:217px;
+    right:506px;
+}
